@@ -1,0 +1,153 @@
+{
+  "List": [
+    {
+      "id": 1,
+      "title": "Bofuri",
+      "imgUrl": "https://cdn.myanimelist.net/images/anime/1579/113812.jpg",
+      "genre": "Action,Adventure,Comedy,Fantasy",
+      "Deskripsi": "Bofuri's story centers on Kaede Honjou, who is invited by her friend Risa Shiramine to play the VRMMO game NewWorld Online with her."
+    },
+    {
+      "id": 2,
+      "title": "Haikyuu!",
+      "imgUrl": "https://cdn.myanimelist.net/images/anime/7/76014.jpg",
+      "genre": "Sports",
+      "Deskripsi": "Ever since having witnessed the Little Giant and his astonishing skills on the volleyball court, Shouyou Hinata has been bewitched by the dynamic nature of the sport."
+    },
+    {
+      "id": 3,
+      "title": "Kuroko no Basket",
+      "imgUrl": "https://cdn.myanimelist.net/images/anime/11/50453.jpg",
+      "genre": "Sports",
+      "Deskripsi": "For the last three years, Teikou Middle School has dominated the national basketball scene with its legendary lineup: the Generation of Miracles."
+    },
+    {
+      "id": 4,
+      "title": "Sword Art Online",
+      "image": "https://cdn.myanimelist.net/images/anime/1579/113812.jpg",
+      "genre": "Action, Adventure, Fantasy, Romance",
+      "Deskripsi": "Sword Art Online (SAO), one of the most recent games on the console, offers a gateway into the wondrous world of Aincrad, a vivid, medieval landscape where users can do anything within the limits of imagination."
+    },
+    {
+      "id": 5,
+      "title": "Kimetsu no Yaiba",
+      "image": "https://cdn.myanimelist.net/images/anime/1579/113812.jpg",
+      "genre": "Action, Award Winning, Fantasy",
+      "Deskripsi": "Ever since the death of his father, the burden of supporting the family has fallen upon Tanjirou Kamado's shoulders. Though living impoverished on a remote mountain, the Kamado family are able to enjoy a relatively peaceful and happy life."
+    },
+    {
+      "id": 6,
+      "title": "Tokyo Ghoul",
+      "image": "https://cdn.myanimelist.net/images/anime/1579/113812.jpg",
+      "genre": "Action, Fantasy, Horror",
+      "Deskripsi": "Reserved college student Ken Kaneki buries his nose in books and avoids the news of the growing crisis. However, the appearance of an attractive woman named Rize Kamishiro shatters his solitude when she forwardly asks him on a date."
+    },
+    {
+      "id": 7,
+      "title": "Akame ga Kill!",
+      "image": "https://cdn.myanimelist.net/images/anime/1579/113812.jpg",
+      "genre": "Action, Fantasy",
+      "Deskripsi": "Night Raid is the covert assassination branch of the Revolutionary Army, an uprising assembled to overthrow Prime Minister Honest, whose avarice and greed for power has led him to take advantage of the child emperor's inexperience."
+    }
+  ],
+  "Trend": [
+    {
+      "id": 1,
+      "title": "Vinland Saga",
+      "image": "https://cdn.myanimelist.net/images/anime/1170/124312.jpg",
+      "genre": "Action,Adventure,Drama",
+      "Deskripsi": "After his father's death and the destruction of his village at the hands of English raiders, Einar wishes for a peaceful life with his family on their newly rebuilt farms."
+    },
+    {
+      "id": 2,
+      "title": "The Misfit of Demon King Academy Ⅱ",
+      "imgUrl": "https://cdn.myanimelist.net/images/anime/1471/128323.jpg",
+      "genre": "Action,Fantasy",
+      "Deskripsi": "As peace returns to the demon realm, Anos Voldigoad wishes nothing more than to put his reputation as the Demon King of Tyranny to rest and go back to being a misfit at the prestigious Demon King Academy. "
+    },
+    {
+      "id": 3,
+      "title": "Tomo-chan Is a Girl!",
+      "imgUrl": "https://cdn.myanimelist.net/images/anime/1444/131828.jpg",
+      "genre": "Comedy, Romance",
+      "Deskripsi": "At the start of their first year of high school, Tomo confesses her feelings to Jun. However, her rough mannerisms and lack of hesitance to throw a punch do nothing to sway Jun's heart."
+    },
+    {
+      "id": 4,
+      "title": "Shingeki no Kyojin",
+      "image": "https://picfiles.alphacoders.com/317/317134.png",
+      "genre": "Action,Drama",
+      "Deskripsi": "Centuries ago, mankind was slaughtered to near extinction by monstrous humanoid creatures called Titans, forcing humans to hide in fear behind enormous concentric walls."
+    },
+    {
+      "id": 5,
+      "title": "Death Note",
+      "image": "https://picfiles.alphacoders.com/145/thumb-145988.jpg",
+      "genre": "Supernatural, Suspense",
+      "Deskripsi": "The ingenious 17-year-old Japanese student Light Yagami and sadistic god of death Ryuk share one belief: their worlds are rotten."
+    },
+    {
+      "id": 6,
+      "title": "Fullmetal Alhemist: Brotherhood",
+      "image": "https://cdn.myanimelist.net/images/anime/1208/94745.jpg",
+      "genre": "Action,Adventure,Drama,Fantasy",
+      "Deskripsi": "Edward becomes an infamous alchemist and gains the nickname Fullmetals the boys' journey embroils them in a growing conspiracy that threatens the fate of the world."
+    },
+    {
+      "id": 7,
+      "title": "Naruto",
+      "image": "https://cdn.myanimelist.net/images/anime/13/17405.jpg",
+      "genre": "Action,Adventure,Fantasy",
+      "Deskripsi": "Moments prior to Naruto Uzumaki's birth, a huge demon known as the Kyuubi, the Nine-Tailed Fox, attacked Konohagakure, the Hidden Leaf Village, and wreaked havoc."
+    }
+  ],
+  "Genres_Action": [
+    {
+      "id": 1,
+      "title": "Sword Art Online",
+      "image": "https://picfiles.alphacoders.com/149/thumb-149339.jpg",
+      "genre": "Action, Adventure, Fantasy, Romance",
+      "Deskripsi": "Sword Art Online (SAO), one of the most recent games on the console, offers a gateway into the wondrous world of Aincrad, a vivid, medieval landscape where users can do anything within the limits of imagination."
+    },
+    {
+      "id": 2,
+      "title": "Kimetsu no Yaiba",
+      "image": "https://cdn.myanimelist.net/images/anime/1889/123307.jpg",
+      "genre": "Action, Award Winning, Fantasy",
+      "Deskripsi": "Ever since the death of his father, the burden of supporting the family has fallen upon Tanjirou Kamado's shoulders. Though living impoverished on a remote mountain, the Kamado family are able to enjoy a relatively peaceful and happy life."
+    },
+    {
+      "id": 3,
+      "title": "Tokyo Ghoul",
+      "image": "https://picfiles.alphacoders.com/416/thumb-416396.png",
+      "genre": "Action, Fantasy, Horror",
+      "Deskripsi": "Reserved college student Ken Kaneki buries his nose in books and avoids the news of the growing crisis. However, the appearance of an attractive woman named Rize Kamishiro shatters his solitude when she forwardly asks him on a date."
+    },
+    {
+      "id": 4,
+      "title": "Akame ga Kill!",
+      "image": "https://picfiles.alphacoders.com/111/thumb-111888.jpg",
+      "genre": "Action, Fantasy",
+      "Deskripsi": "Night Raid is the covert assassination branch of the Revolutionary Army, an uprising assembled to overthrow Prime Minister Honest, whose avarice and greed for power has led him to take advantage of the child emperor's inexperience."
+    }
+  ],
+  "Banner": [
+    {
+      "id": 1,
+      "title": "Bofuri",
+      "imgUrl": "https://animekaizoku.com/wp-content/uploads/2020/03/81LSmSv8l0L._RI_.jpg",
+      "genre": "Action,Adventure,Comedy,Fantasy",
+      "Deskripsi": "Bofuri's story centers on Kaede Honjou, who is invited by her friend Risa Shiramine to play the VRMMO game NewWorld Online with her."
+    },
+     {
+      "id": 2,
+      "title": "Shingeki no Kyojin",
+      "image": "https://picfiles.alphacoders.com/317/317134.png",
+      "genre": "Action,Drama",
+      "Deskripsi": "Centuries ago, mankind was slaughtered to near extinction by monstrous humanoid creatures called Titans, forcing humans to hide in fear behind enormous concentric walls."
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
